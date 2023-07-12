@@ -2,8 +2,8 @@
 #  Call Me Ahmed:
 :telescope: I’m currently working on Javascript, Vuejs, and NuxtJs<br>:seedling: I’m currently learning TypeScript, Reactjs, Flutter, Dart<br>:speech_balloon: Ask me about Scss, Javascript, VueJs, and NuxtJs<br>
 <div align="left">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=380&langs_count=6&theme=transparent&username=aahmeddhheshamm" height="160" alt="languages graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aahmeddhheshamm&theme=transparent&include_all_commits=true&count_private=true" height="160" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=380&langs_count=6&theme=yeblu&username=aahmeddhheshamm" height="160" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aahmeddhheshamm&theme=yeblu&include_all_commits=true&count_private=true" height="160" />
 </div>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" width="48" alt="html5 logo" title="Html" />
