@@ -1,5 +1,5 @@
 
-# :technologist::skin-tone-2: Call Me Ahmed:
+#  Call Me Ahmed:
 :telescope: I’m currently working on Javascript, Vuejs, and NuxtJs<br>:seedling: I’m currently learning TypeScript, Reactjs, Flutter, Dart<br>:speech_balloon: Ask me about Scss, Javascript, VueJs, and NuxtJs<br>
 <div align="left">
    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=380&langs_count=6&theme=transparent&username=aahmeddhheshamm" height="160" alt="languages graph"  />
