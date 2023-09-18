@@ -29,6 +29,8 @@
   <img src="https://axios-http.com/assets/favicon.ico" height="48" width="48" alt="axios logo" title="Axios" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="48" width="48" alt="figma logo" title="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="48" width="48" alt="xd logo" title="XD" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="48" width="48" alt="flutter logo" title="flutter" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="48" width="48" alt="dart logo" title="dart" />
 </div>
 
 ---
